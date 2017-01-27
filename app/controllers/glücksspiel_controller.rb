@@ -1,0 +1,2 @@
+class GlücksspielController < ApplicationController
+end
